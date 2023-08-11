@@ -3,6 +3,9 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jacom3dev/count.svg"  />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jacom3-dev/" target="_blank">
